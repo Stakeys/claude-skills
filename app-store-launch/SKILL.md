@@ -92,3 +92,31 @@ bloqueada, concluída), progresso %, gargalo e ponto de melhoria. Toda semana:
   profissional fixo. Trocar de fornecedor deve significar recomeçar.
 - Métricas semanais: tempo para atender um pedido, % de pedidos atendidos,
   recompra em 60 dias, margem por hora após taxas, avaliação média dos dois lados.
+
+## Lançar nos EUA (ex.: Utah) a partir do Brasil
+
+Confirme cada ponto com advogado local; as regras mudam.
+
+- **Classificação é o maior risco.** No âmbito federal (FLSA), vale o teste de
+  "realidade econômica": controle do trabalho e chance de lucro ou prejuízo
+  pesam mais. O Departamento do Trabalho propôs uma nova regra em fev/2026;
+  confira se já é definitiva. Para o seguro-desemprego, Utah presume que o
+  trabalhador é empregado, salvo se tiver negócio próprio e for livre de controle.
+  Substituto presencial que cumpre horário do cliente → empregado W-2.
+- **Leis de plataforma em Utah:** a 34-53 (2018) presume contratado só para
+  "building services" (até US$ 3 mil) e creche; a 34-53a (2021) cobre serviço
+  remoto, desde que a plataforma não fixe horários. Recepção presencial não entra.
+- **Empregador em Utah:** seguro de acidente de trabalho a partir do 1º
+  empregado; registro no Department of Workforce Services (seguro-desemprego);
+  mínimo de US$ 7,25/h; horas extras de 1,5× após 40 h/semana (federal); sem
+  licença médica obrigatória; Lei de Pagamento de Salários com prazos de pagamento.
+- **Agência:** Utah não licencia agência de emprego; PEO precisa de licença no
+  Insurance Department.
+- **Contratação:** I-9 para todo empregado; checagem de antecedentes com aviso e
+  autorização (FCRA). Em clínicas, treinamento HIPAA e não guardar dados de
+  pacientes na plataforma.
+- **Imigração:** o Brasil não tem tratado E-2. Abrir LLC remotamente é possível,
+  trabalhar presencialmente exige visto. Verifique dupla cidadania ou sócio local.
+- **Entrada de menor risco:** cobertura remota com contratados (34-53a) primeiro;
+  presencial W-2 (ou via employer of record) depois.
+- **Pagamentos e folha:** Stripe Connect para cobrança; Gusto ou Check para folha.
